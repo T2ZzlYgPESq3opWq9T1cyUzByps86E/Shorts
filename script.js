@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){document.getElementById("main-iframe").addEventListener("load",function(){try{this.contentWindow.document.body.style.margin="0",this.contentWindow.document.body.style.padding="0"}catch(n){}})});
